@@ -6,6 +6,7 @@ Should Contain Notes on the Following
   - Scheduling
   - Transaction
   - Semi-Strucutred Data, ACID
+- Graph Datases
 - Vector Database
 - Document Database
 
