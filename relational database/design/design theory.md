@@ -243,7 +243,7 @@ Definition: a reversible decomposition where a rejoin of all the decomposed rela
 - ex. PNG, JPEG, Huffman encoding
 
 In the example of Restaurant BCNF, it is a lossless decomposition
-- R2 = rid, name, rating
-- R3 = rating, popularity
-- R4 = popularity, recommended
+- R2 = rid, name, `rating`
+- R3 = `rating`, `popularity`
+- R4 = `popularity`, recommended
 
